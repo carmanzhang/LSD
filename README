@@ -1,0 +1,9 @@
+LSD
+============
+
+This repo contains code for our recent paper entitled "LSD, a unified framework of linked scholarly databases for data enhancement and scientific innovation".
+
+We made an extensive effort to validate the feasibility and practicality of the LSD (Linked Scholarly Database) approach. 
+
+Specifically, we first validate large-scale data linkage between SDs and then demonstrate the feasibility of LSD in enhancing data quality and driving scientific discovery on a range of tasks, including scholarly information disambiguation, retrieval, recommendation, bibliometrics study, and scholarly digital library management. We compare the outcomes of these tasks with and without the use of LSD to demonstrate the significant impact of LSD.
+
